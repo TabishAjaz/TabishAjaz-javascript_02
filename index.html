@@ -1,0 +1,31 @@
+<!DOCTYPE html > 
+<html lang="en">
+    <link rel="stylesheet" href="code.css">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JS_DOM</title>
+</head>
+<body  id="dark" >
+    <div class="container" id="cId">
+        <div class="lBox" id="d1" onmousedown="mouseDown()" onmouseup="mouseUp()"><h2><strong> Click( ) & move the mouse over me To change my COLOR!!!!!!!!!!!!!.</strong></h2></div>
+        <div class="rBox" id="d2" ondblclick="dbClick()"><h3>Double Click please!!</h3></div>
+        <div class="lBox" id="d3" >
+            <input type="number" class="rashi" placeholder="from 01 to 12" onfocus="myFunction(this)">
+            <input type="button" id="btn1" value="Enter your Month of Birth" onclick="rashi()">
+            <br>
+            <h1 id="rArea">Know your Rashi(according to Month)</h1>
+        </div>
+        <div class="rBox" id="d4" >
+          <h1><b></b></h1>  <input type="button" id="mode" value="Darkmode" onclick="darkMode()">
+         <!-- <h1><b></b></h1>  <input type="button" id="mode1" value="Daymode" onclick="dayMode()" style="color: aliceblue;">-->
+        </div>
+        <!--<div class="lBox" id="d5">5</div>
+        <div class="rBox" id="d6">2</div>
+        <div class="lBox" id="d7">3</div>
+        <div class="rBox" id="d8">4</div>-->
+    </div>
+</body>
+
+<script  src="code.js"></script>
+</html>
