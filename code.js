@@ -51,7 +51,7 @@ function rashi(){
     }
     else if(rValue==8||rValue==9){
         document.getElementById("rArea").innerHTML="Leo";
-        document.querySelector("#d3").style.background="url('https://lh3.googleusercontent.com/proxy/S3EyMyVjWaHMmFcg6QPAxv4ep2l5PcYEVbIdaS6V5pNa1eBJEPBxSEIN2S9fdQq7udjR3BazbyQTplsDpy7SsXSfzxGhymXx8WJndrGGWpG2QtGNhx93oxql_hQwKfZ5ops')";
+        document.querySelector("#d3").style.background="url('https://www.pngkey.com/png/full/175-1756560_primary-logo-leo-black-icon-astrological-sign-leo.png')";
         document.querySelector("#d3").style.backgroundRepeat="no-repeat";
         document.querySelector("#d3").style.backgroundSize="250px 350px";
     }
