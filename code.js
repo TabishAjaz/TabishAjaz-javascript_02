@@ -43,7 +43,7 @@ function rashi(){
     }
     else if(rValue==6||rValue==7){
         document.getElementById("rArea").innerHTML="Gemini";
-        document.querySelector("#d3").style.background="url('https://lh3.googleusercontent.com/proxy/M29-yAwqppcRWvhlSspliEx6awxKpv0b_DZl4VzRooDrUsa2AEp3yuMAO0owzaoxUmwjEpJX9RHpMTBCSF-X2ysab343IBHmPVwQts89-9A6c_AplN2XPR21H_6jVRNmD-1_ixk')";
+        document.querySelector("#d3").style.background="url('http://www.pngall.com/wp-content/uploads/2016/05/Gemini-Free-Download-PNG.png')";
         document.querySelector("#d3").style.backgroundRepeat="no-repeat";
         document.querySelector("#d3").style.backgroundSize="250px 350px";
 
