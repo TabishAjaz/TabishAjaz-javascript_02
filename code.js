@@ -57,7 +57,7 @@ function rashi(){
     }
     else if(rValue==10||rValue==11){
         document.getElementById("rArea").innerHTML="Sagittarius";
-        document.querySelector("#d3").style.background="url('https://lh3.googleusercontent.com/proxy/53ZezbE465CH5PX6b496s6kb93M8iJozSclpmqF-cGGoVAC04yCkzIRfrj59fXV4KzXBCsoy0w5KcmpgS9UpvYQ9xzyERaIYGuRUgzvL_Vfb-5rW5s9MAer79gStDVWqEW6AUQWKZOcouA')";
+        document.querySelector("#d3").style.background="url('https://lh3.googleusercontent.com/proxy/OFyYUaxhhnbr65a8I0cAFv4VwmDtOgEJqatR7ZnkQJb-8ay0GMOUMPtoG0f5J1vGBsU5tz-6Vby3Df84baE_zbPRYSwGPBZPzhgoEa9354IoJGNIYiZsYg')";
         document.querySelector("#d3").style.backgroundRepeat="no-repeat";
         document.querySelector("#d3").style.backgroundSize="250px 350px";
 
